@@ -18,7 +18,7 @@ It allows the rover to maintain stability when navigating rocks, slopes, and une
 
 ### 🖼️ Renders
 <p align="center">
-  <img src="https://github.com/Team-Deimos-IIT-Mandi/Rocker-and-differential-bar/blob/main/ROCKER/RENDER%20PHOTOS/ROCKER%20RENDER.JPG" alt="Rocker Render 1" width="350" height="350"/>
+  <img src="https://github.com/Team-Deimos-IIT-Mandi/Rocker-and-differential-bar/blob/main/ROCKER/RENDER%20PHOTOS/ROCKER%20RENDER.JPG" alt="Rocker Render 1" width="600"/>
 </p>
 
 ---
@@ -36,7 +36,7 @@ When one rocker moves up, the differential bar transfers motion so the other roc
 
 ### 🖼️ Renders
 <p align="center">
-  <img src="https://github.com/Team-Deimos-IIT-Mandi/Rocker-and-differential-bar/blob/main/DIFFERENTIAL%20BAR/RENDER%20PHOTOS/DIFFERENTIAL%20BAR%20RENDER.JPG" alt="Differential Bar Render 1"  width="300" height="350"/>
+  <img src="https://github.com/Team-Deimos-IIT-Mandi/Rocker-and-differential-bar/blob/main/DIFFERENTIAL%20BAR/RENDER%20PHOTOS/DIFFERENTIAL%20BAR%20RENDER.JPG" alt="Differential Bar Render 1"  width="600" />
 </p>
 
 ---

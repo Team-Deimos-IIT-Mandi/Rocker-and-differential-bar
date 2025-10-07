@@ -99,6 +99,16 @@ This project introduces several groundbreaking approaches:
 3. **Integrated Support Structure**: The glider/support guide system provides comprehensive chassis reinforcement
 4. **Modular Architecture**: Components can be adapted for various applications and requirements
 
+## 📸 Images
+
+### Sketch 1: NEW ROCKER 2D FRONT VIEW
+
+![Sketch 1 Placeholder](https://github.com/Team-Deimos-IIT-Mandi/Rocker-and-differential-bar/blob/new-rocker-bar/ROCKER/RENDER%20PHOTOS/new%20rocker.jpg)
+
+### Sketch 2: 3D VIEW
+
+![Sketch 2 Placeholder](https://github.com/Team-Deimos-IIT-Mandi/Rocker-and-differential-bar/blob/new-rocker-bar/ROCKER/RENDER%20PHOTOS/new%20rocker%202.jpg)
+
 ## 📥 Installation
 
 1. **Preparation**

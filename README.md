@@ -18,7 +18,7 @@ It allows the rover to maintain stability when navigating rocks, slopes, and une
 
 ### 🖼️ Renders
 <p align="center">
-  <img src="https://github.com/Team-Deimos-IIT-Mandi/Rocker-and-differential-bar/blob/main/ROCKER/RENDER%20PHOTOS/ROCKER%20RENDER.JPG" alt="Rocker Render 1" width="600"/>
+  <img src="https://github.com/Team-Deimos-IIT-Mandi/Rocker-and-differential-bar/blob/new_rocker_bar_whithout_steering/ROCKER/RENDER%20PHOTOS/Screenshot%202025-10-23%20164257.png" alt="Rocker Render 1" width="600"/>
 </p>
 
 ---

@@ -319,4 +319,4 @@ This project is intended for **educational and research purposes related to plan
 
 Developed as part of the **Mars Rover Project**
 
-**Team Deimos — IIT Mandi**
+**RIHAANSH SARASWAT MECH TEAM LEAD  Team Deimos — IIT Mandi**
